@@ -22,4 +22,21 @@ backend/main.py
 backend/requirements.txt
 backend/Dockerfile
 docker-compose.yml
-.gitignore
+
+Neurolog2/
+├── README.md
+├── .gitignore
+├── docker-compose.yml
+├── backend/
+│   ├── main.py
+│   ├── database.py
+│   ├── models.py
+│   ├── schemas.py
+│   ├── detector.py
+│   ├── requirements.txt
+│   └── Dockerfile
+├── mobile/
+│   ├── pubspec.yaml
+│   └── lib/
+└── nginx/
+    └── nginx.conf
