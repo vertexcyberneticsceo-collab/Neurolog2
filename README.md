@@ -8,3 +8,5 @@ touch README.md .gitignore docker-compose.yml
 git add .
 git commit -m "Initial Neurolog project"
 git push -u origin main
+git clone https://github.com/vertexcyberneticsceo-collab/Neurolog2.git
+cd Neurolog2
