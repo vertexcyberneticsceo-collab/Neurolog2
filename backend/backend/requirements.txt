@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg[binary]
+pydantic
+pydantic-settings
+cryptography
+firebase-admin
+python-jose[cryptography]
+passlib[bcrypt]
+alembic
+reportlab
+pytest
+httpx
