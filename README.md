@@ -18,3 +18,8 @@ touch \
 git add .
 git commit -m "Add Neurolog backend scaffold"
 git push
+backend/main.py
+backend/requirements.txt
+backend/Dockerfile
+docker-compose.yml
+.gitignore
